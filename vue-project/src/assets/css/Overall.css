@@ -1,0 +1,102 @@
+/* 我要购买页边边字母 */
+html {
+  font-size: 32px;
+}
+  .mine div.van-index-bar__sidebar .van-index-bar__index {
+    line-height: 1.2rem;
+    text-align: center;
+    font-size: 0.42667rem;
+    color: #333;
+    background: #fdfdfd;
+  }
+  .van-index-bar__sidebar {
+    height: 80% !important;
+    overflow: auto;
+  }
+  body{
+      background: #fff;
+  }
+  .home .van-tabs__nav--line {
+    width: 60% !important;
+  }
+  /* 购买页标签栏 */
+  .buyPage .van-hairline--top-bottom .van-tabs__nav {
+    width: 60% !important;
+  }
+  .home .van-tab span{
+      font-size: 0.4rem;
+  }
+  .van-tab.van-tab--active .van-ellipsis {
+    font-size: 0.6rem;
+    font-weight: 700;
+  }
+  .buyPage .van-tab.van-tab--active span{
+    font-size: 0.8rem !important;
+    font-weight: 700;
+  }
+  .footer .van-tabbar--fixed .van-tabbar-item:nth-of-type(3) img {
+    width: 46px !important;
+    height: 47px !important;
+    margin-top: -24px;
+    margin-left: -13px;
+  }
+  .home > div > div > .van-grid {
+    margin-top: 42px;
+  }
+   .home .van-tabs__nav .van-tab:nth-of-type(1) {
+    flex-grow: 2;
+  }
+  .home .van-grid-item__icon + .van-grid-item__text {
+    font-size: 0.3rem;
+  }
+  .home .van-grid-item {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  .home .van-grid-item span {
+    width: 100%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    text-align: center;
+  }
+  .home .van-grid-item__icon {
+    font-size: 50px !important;
+  }
+  /* 购买页 */
+  .buyPage .van-tabs__content {
+    width: 90%;
+  }
+  .buyPage .van-grid-item{
+    overflow: hidden;
+  }
+  .buyPage .van-grid-item .van-grid-item__text{
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  width: 100%;
+  text-align: center;
+  }
+  .buyPage{
+    margin-bottom: 50px;
+  }
+  /* 我要购买页右边索引高亮 */
+  .buyPage .van-index-bar__sidebar .active{
+  color:#ff6700!important;
+}
+#app{
+  height: 100%;
+}
+.footer{
+  height: 100%;
+}
+/* 消息页面的第一个选项卡 */
+.message > .van-tabs--line > .van-tabs__wrap {
+  margin: auto !important;
+  padding: 0 20%;
+  background: #fff;
+  width: 100%;
+}
+.message > .van-tabs--line > .van-tabs__content .van-tab--active span{
+  font-size: 0.5rem;
+}

@@ -1,0 +1,60 @@
+{
+    "banner": [
+        "http://pic.7881.com/m7881/2019ad/011.jpg",
+        "http://pic.7881.com/m7881/2019ad/006.jpg",
+        "http://pic.7881.com/m7881/2019ad/019.jpg",
+        "http://pic.7881.com/m7881/2019ad/021.jpg"
+    ],
+    "category": [
+        "http://pic.7881.com/7881/market/images/m-nav/001.png",
+        "http://pic.7881.com/7881/market/images/m-nav/002.png",
+        "http://pic.7881.com/7881/market/images/m-nav/003.png",
+        "http://pic.7881.com/7881/market/images/m-nav/004.png",
+        "http://pic.7881.com/7881/market/images/m-nav/005.png",
+        "http://pic.7881.com/7881/market/images/m-nav/006.png",
+        "http://pic.7881.com/7881/market/images/m-nav/007.png",
+        "http://pic.7881.com/7881/market/images/m-nav/008.png"
+    ],
+    "reyx": [
+        "https://pic.7881.com/7881/market/images/game_logo/G479.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G10.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A2705.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G33.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A5450.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G12.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A5387.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G521.png"
+    ],
+    "dy": [
+        "https://pic.7881.com/7881/market/images/game_logo/G479.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G10.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G33.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G12.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G521.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G5209.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G3415.png",
+        "https://pic.7881.com/7881/market/images/game_logo/G1067.png"
+    ],
+    "sy": [
+        "https://pic.7881.com/7881/market/images/game_logo/A2705.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A5450.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A5387.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A5404.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A3856.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A5550.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A5509.png",
+        "https://pic.7881.com/7881/market/images/game_logo/A5549.png"
+    ],
+    "xszn": [
+        "http://h5.7881.com/src/img/banner01.84aa4dd7.jpg",
+        "http://h5.7881.com/src/img/banner02.5304f5bb.jpg",
+        "http://h5.7881.com/src/img/banner03.c2ee5039.jpg"
+    ],
+    "rmtj": [
+        "http://pic.7881.com/7881/market/images/game_logo/rmtj/001.png",
+        "http://pic.7881.com/7881/market/images/game_logo/G10.png",
+        "http://pic.7881.com/7881/market/images/game_logo/A2705.png",
+        "http://pic.7881.com/7881/market/images/game_logo/G479.png",
+        "http://pic.7881.com/7881/market/images/game_logo/G33.png"
+    ]
+}
